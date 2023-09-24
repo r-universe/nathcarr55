@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MGPSDK"]
+	path = MGPSDK
+	url = https://github.com/cran/MGPSDK
 [submodule "mgpStreamingSDK"]
 	path = mgpStreamingSDK
 	url = https://github.com/cran/mgpStreamingSDK
